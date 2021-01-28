@@ -1,6 +1,6 @@
-# Lesson Summaries (docs + annotated images)
+# Zenva Course
 
-## CX-ZA-LS12 (Intro to Web Development with HTML and CSS)
+## Intro to Web Development with HTML and CSS
 
 ### Modules
 
